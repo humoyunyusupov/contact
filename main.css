@@ -1,0 +1,14 @@
+.contact-list{
+    list-style: none;
+    padding: 0;
+}
+.contac-item{
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.299);
+    margin-bottom: 20px;
+}
+.contact-number{
+    text-decoration: none;
+}
